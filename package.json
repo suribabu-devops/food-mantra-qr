@@ -1,3 +1,4 @@
+
 {
   "name": "food-mantra-restaurant",
   "private": true,
@@ -6,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "vite build",
+    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
